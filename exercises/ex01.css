@@ -1,0 +1,30 @@
+ol {color: rgb(197, 142, 4);}
+
+h1 {background: palegoldenrod; color: darkgoldenrod; font-family: sans-serif;}
+
+h2 {background: palegoldenrod; color: darkgoldenrod; font-family: sans-serif;}
+
+h3 {color: darkgoldenrod; font-family: sans-serif;}
+
+ol {font-family: sans-serif;}
+p {color: darkgoldenrod; font-family: sans-serif;}
+em {color: darkgoldenrod;}
+a {color: rgb(119, 193, 197);}
+
+html {background-color: azure;}
+
+a:hover {color: rgb(63, 143, 170);}
+
+/* Center img */
+
+img {display: block; margin-left: auto; margin-right: auto; width: 50%;}
+img:hover {width: 60%;}
+
+
+.highlight_01 {background-color: rgb(255, 236, 116);}
+.highlight_02 {background-color: rgb(169, 223, 255);}
+
+#gallery {display: flex; flex-wrap: wrap; row-gap: 100px; column-gap: 1px;}
+
+
+.boxed-image {border: 40px solid #fff79a;}

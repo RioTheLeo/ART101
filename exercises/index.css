@@ -1,0 +1,18 @@
+
+
+
+
+h1 {background-color: slateblue; padding: 10px; margin: 10px; color: lavender; font-family: monospace;}
+h2 {color: lightsteelblue; font-family: monospace;}
+h3 {color: lightsteelblue; font-family: monospace;}
+ol {color: lightsteelblue; font-family: monospace;}
+p {color: thistle; font-family: monospace;}
+html {background-color: rgb(62, 62, 100)}
+
+#gallery {display: flex;}
+#RBNH {float: right; gap: 10px; }
+#RBNH {width: 20%;}
+
+#rio {float: left;  gap: 10px; }
+#Rio {width: 20%;}
+
