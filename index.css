@@ -1,18 +1,62 @@
 
 
+#page {
+    max-width: 900px;
+    margin: 0 auto 0 auto;
+    background: rgb(145, 117, 206);
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+#introduction {
+    background: #d6a5ff;
+    padding: 20px;
+    border-left: 6px solid #5c16b9;
+    flex: 2;
+    
+}
 
+#introduction h2 {
+    font-style: italic;
+    margin-top: 0;
+}
 
-h1 {background-color: slateblue; padding: 10px; margin: 10px; color: lavender; font-family: monospace;}
-h2 {color: lightsteelblue; font-family: monospace;}
-h3 {color: lightsteelblue; font-family: monospace;}
-ol {color: lightsteelblue; font-family: monospace;}
-p {color: thistle; font-family: monospace;}
+#introduction p {
+    font-size: 120%;
+    line-height: 1.5;
+}
+
 html {background-color: rgb(62, 62, 100)}
 
 #gallery {display: flex;}
 #RBNH {float: right; gap: 10px; }
-#RBNH {width: 20%;}
+#RBNH {width: 120px;}
 
 #rio {float: left;  gap: 10px; }
-#Rio {width: 20%;}
+#Rio {width: 120px;}
 
+.top-section {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 0 0 25px 0;
+}
+
+.navigation {
+    background: #d6a5ff;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.navigation h2 {
+    margin-top: 1;
+}
+
+.navigation li {
+    margin-bottom: 8px;
+}
+
+.navigation a {
+    color: #713dcb;
+    font-weight: bold;
+}

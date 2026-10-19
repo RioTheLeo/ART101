@@ -1,0 +1,43 @@
+
+body {background-image: url(bkrnd.jpg); background-repeat:no-repeat; background-size: cover;}
+
+h1 {color: #ba186e; background-color: blanchedalmond;}
+p {color: #ba186e; background-color: blanchedalmond;}
+
+#jackal {width: 300px;}
+#flower {width: 90px;padding: 10px}
+#mushroom {width: 70px;padding: 10px;}
+.my-container {
+
+  max-width: 500px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 8px;
+
+}
+
+.container1 {
+
+  max-width: 200px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 8px;
+position: absolute; left: 10px;
+display: flex; position: absolute;
+
+}
+.container2 {
+
+  max-width: 200px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 8px;
+position: absolute; right: 10px;
+display: flex; position: absolute;
+}

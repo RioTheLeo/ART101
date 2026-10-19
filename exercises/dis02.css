@@ -1,0 +1,52 @@
+/* Make your page look exactly like the example!
+   Some rules are already done for you. Use them as examples.
+   Every color you need is written in the comments. */
+
+
+/* ----- TAG selectors: style every element of that type ----- */
+
+/* DONE for you: use this as an example of what a finished rule looks like */
+body {
+    background: #f1f1f1;
+    font-family: "Trebuchet MS", sans-serif;
+    color: #333333;
+}
+
+/* DONE for you */
+h1 {
+    color: #9264b7;
+    font-size: 48px;
+}
+
+
+/* ----- CLASS selectors: style a group ----- */
+
+
+.highlight {background: hsl(209, 60%, 71%)}
+
+/* TODO: write the selector for the "fact" class */
+.fact {color: hsl(89, 43%, 39%)}
+
+
+/* ----- ID selector: style one specific element ----- */
+
+/* TODO: write the selector for the photo's id */
+img {border: 4px solid hsl(189, 100%, 35%) }
+
+.card {
+    background: hsl(0, 0%, 100%);
+    color: hsl(189, 100%, 35%);
+    width: 60%;
+    padding: 20px;
+}
+
+
+.card,strong {color: hsl(273, 37%, 55%)  
+
+}
+
+
+/* ----- STRETCH GOAL: :hover ----- */
+
+/* Done early? Make links turn #ff69b4 when you hover over them */
+ 
