@@ -1,0 +1,78 @@
+
+
+
+h1 {color: #ba186e; background-color: blanchedalmond; font-family: "Trebuchet MS", sans-serif;}
+p {color: #ba186e; background-color: blanchedalmond;font-family: "Trebuchet MS", sans-serif;}
+
+#jackal {width: 300px;}
+#flower {width: 90px;padding: 10px}
+#mushroom {width: 70px;padding: 10px;}
+.my-container {
+
+  max-width: 500px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 8px;
+font-family: "Trebuchet MS", sans-serif;
+
+}
+
+.container1 {
+
+  max-width: 200px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffebcd;
+  border-radius: 8px;
+position: absolute; left: 10px;
+display: flex; position: absolute;
+font-family: "Trebuchet MS", sans-serif;
+
+}
+.container2 {
+
+  max-width: 200px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: blanchedalmond;
+  border-radius: 8px;
+position: absolute; right: 10px;
+display: flex; position: absolute;
+font-family: "Trebuchet MS", sans-serif;
+}
+
+button {
+    background: #ffebcd;
+    color: #ba186e;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 22px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 999px;
+    margin: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+  
+ button:hover{
+color: #ffffff;
+transform: rotate(-4deg);
+}
+.color-circle {
+   display: inline-block;
+   width: 36px;
+   height: 36px;
+   margin-right: 8px;
+   border: 2px solid black;
+   border-radius: 50%;
+   cursor: pointer;
+}
+
+#green  { background-color: lime;}
+#orange { background-color: orange;;}
+#lavender   { background-color: lavender; }
+#blue   { background-color: aqua; }

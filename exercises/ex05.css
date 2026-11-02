@@ -1,0 +1,14 @@
+.color-circle {
+   display: inline-block;
+   width: 36px;
+   height: 36px;
+   margin-right: 8px;
+   border: 2px solid black;
+   border-radius: 50%;
+   cursor: pointer;
+}
+
+#green  { background-color: lime; }
+#orange { background-color: orange; }
+#lavender   { background-color: lavender; }
+#blue   { background-color: aqua; }
